@@ -1,2 +1,3 @@
 # prickleys-store
-its about an ecommerce store I was coding for a client
+
+©2025 Prickleys. All rights reserved
